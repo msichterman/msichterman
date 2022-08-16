@@ -1,7 +1,13 @@
-[![MSICH - Personal Site](https://img.shields.io/badge/MSICH-Personal%20Site-0892d0)](https://msich.dev/)&emsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/mattsichterman?style=social)](https://twitter.com/mattsichterman)&emsp;
-[![Follow on GitHub](https://img.shields.io/github/followers/msichterman?label=Follow%20on%20Github&style=social)](https://github.com/msichterman)&emsp;
+### Hello there 👋
+My name is Matt, and I work remotely from Cincinnati, OH. I graduated from the 🌽 University of Nebraska-Lincoln 🌽 with a degree in Software Engineering and a Masters degree in Engineering Management. I am also a former offensive lineman for the Nebraska football team 🏈.
 
-Hey there 👋🏻 , my name is Matt and I am a graduate student at the University of Nebraska-Lincoln pursuing my Masters in Engineering Management, where I got my bachelors degree in Software Engineering. I am also a former offensive lineman for the Nebraska football team.
+Here are some things that I like to do in my free time...
+- **Code! 👨🏼‍💻** – Learning is a passion of mine, and I love dabling in new technologies on side projects whenever possible. Lately I've been playing around with [RedwoodJS](https://redwoodjs.com/)
+- **Listen! 🎵** – I love podcasts and I am always catching up on episodes of [My First Million](https://www.mfmpod.com/) or [Startups for the Rest of Us](https://www.startupsfortherestofus.com/)
+- **Watch! 📺 🏈** – I watch a lot of YouTube (lately [ThePrimeagen](https://www.youtube.com/c/ThePrimeagen) and [Jack Herrington](https://www.youtube.com/c/JackHerrington)), and casually some shows on Netflix, etc. I am also a huge sports fan!
+- **Play!⛳️ 🏀 🎮** – Mostly sports, sometimes video games. I have been an athlete all my life! I enjoy working out, playing golf, and recently got back into playing basketball competitively.
 
-As a software engineer, I enjoy working on full-stack projects. I specialize in JavaScript and enjoy using React, Express, Node.js, NoSQL databases and AWS to create projects. I also have experience using Python, .NET Core and SQL databases. I am currently interested in RedwoodJS.
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msichterman)&emsp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/mattsichterman?style=for-the-badge)](https://twitter.com/mattsichterman)&emsp;
+[![Follow on GitHub](https://img.shields.io/github/followers/msichterman?label=Follow%20on%20Github&style=for-the-badge)](https://github.com/msichterman)&emsp;
+[![MSICH - Personal Site](https://img.shields.io/badge/MSICH-Personal%20Site-0892d0?style=for-the-badge)](https://msich.dev/)&emsp;
