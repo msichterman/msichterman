@@ -1,5 +1,5 @@
 ### Hello there 👋
-My name is Matt, and I work remotely from Cincinnati, OH. I graduated from the 🌽 University of Nebraska-Lincoln 🌽 with a degree in Software Engineering and a Masters degree in Engineering Management. I am also a former offensive lineman for the Nebraska football team 🏈.
+My name is Matt, and I work remotely from Cincinnati, OH. I graduated from the University of Nebraska 🌽 with a degree in Software Engineering and a Masters degree in Engineering Management. I am also a former offensive lineman for the Nebraska football team 🏈.
 
 Here are some things that I like to do in my free time...
 - **Code! 👨🏼‍💻** – Learning is a passion of mine, and I love dabling in new technologies on side projects whenever possible. Lately I've been playing around with the [T3 Stack](https://create.t3.gg/).
