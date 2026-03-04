@@ -1,5 +1,5 @@
 ### Hello there 👋
-My name is Matt Sichterman and I am an entrepreneur and Sr. Software Engineer at [Flamel.ai](https://flamel.ai/). Flamel.ai is a software platform that enables multi-location brands and agencies to create meaningful engagement and conversion with local, personalized social media content while preserving brand integrity.
+My name is Matt Sichterman and I am the CTO at [Flamel.ai](https://flamel.ai/). Flamel.ai is a software platform that enables multi-location brands and agencies to create meaningful engagement and conversion with local, personalized social media content while preserving brand integrity.
 
 I returned to Cincinnati in 2021 after attending the University of Nebraska-Lincoln, where [I played football for the Cornhuskers and studied Software Engineering](https://youtu.be/pPqnZ709VG0?si=saZN0eoBLYSAdhqQ). I also earned my Master's degree in Engineering Management with a focus on Business Administration.
 
