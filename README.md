@@ -7,7 +7,7 @@ My career began in sports tech at Hudl, optimizing user engagement for the AI-en
 
 I then transitioned to American Express, working on the Consumer products (Platinum Card, Gold Card, etc.) team. I deployed full-stack user experiences to tens of millions of customers, focusing on security, performance, accessibility, and UX at scale.
 
-In my spare time, I [co-founded a beef jerky company called "Jurgy"](https://jurgy.co) with my best friend/college teammate/Philadelphia Eagle, [Cam Jurgens](https://www.instagram.com/beef_jurgy/). At Jurgy, we're on a mission to create the best beef jerky in the world. I also enjoy lifting weights, playing/watching sports, traveling around the world, and finding new rabbit holes to continue my lifelong quest of learning and creating.
+In my spare time, I [co-founded a beef jerky company called "Jurgy"](https://jurgy.co) with my best friend/college teammate/Baltimore Raven, [Cam Jurgens](https://www.instagram.com/beef_jurgy/). At Jurgy, we're on a mission to create the best beef jerky in the world. I also enjoy lifting weights, playing/watching sports, traveling around the world, and finding new rabbit holes to continue my lifelong quest of learning and creating.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msichterman)&emsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/mattsichterman?style=for-the-badge)](https://x.com/mattsichterman)&emsp;
